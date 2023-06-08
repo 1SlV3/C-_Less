@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/Hello_Console
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/Hello_Console.deps.json
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/Hello_Console.runtimeconfig.json
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/Hello_Console.dll
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/ref/Hello_Console.dll
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/bin/Debug/net6.0/Hello_Console.pdb
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.AssemblyInfo.cs
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.dll
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/ref/Hello_Console.dll
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.pdb
+/home/user/Рабочий стол/python_lesson/C#_Less/Hello_Console/obj/Debug/net6.0/Hello_Console.genruntimeconfig.cache
